@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I've Worked On
 
 - 🏢 **Jarvis CRM** – Built for Dubizzle Group, this CRM system automates credit allocation, reporting, and operations across 50K+ property listings in MENA & South Asia using Ruby on Rails, Elasticsearch, and AWS
 - 💼 **Resume AI** – Get keyword-optimized resumes with AI feedback
